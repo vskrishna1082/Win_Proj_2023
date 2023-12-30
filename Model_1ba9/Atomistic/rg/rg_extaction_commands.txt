@@ -1,0 +1,13 @@
+# bash CLI commands used to extract the average rg
+
+for file in *.xvg; do 
+	number=$(echo $file | egrep -o [0-9]+);
+	fnumber=$(printf "%03d" $number);
+	gmx analyze -av -f $file > "$fnumber.dat";
+	done
+
+for file in  *.dat;do
+	sed -n '7p' $file | awk '{print $2}' >> rg_per_residue.txt;
+	done
+
+rm *.dat

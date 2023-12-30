@@ -1,0 +1,3750 @@
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_ALA_1 plus cog of group Protein_THR_2 plus cog of group Protein_LYS_3' -g2 plane -group2 'plus cog of group Protein_THR_2 plus cog of group Protein_LYS_3 plus cog of group Protein_ALA_4' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral002
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_THR_2 plus cog of group
+    Protein_LYS_3 plus cog of group Protein_ALA_4'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_THR_2 plus cog of group Protein_LYS_3 plus cog of group Protein_ALA_4' -g2 plane -group2 'plus cog of group Protein_LYS_3 plus cog of group Protein_ALA_4 plus cog of group Protein_VAL_5' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral003
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_LYS_3 plus cog of group
+    Protein_ALA_4 plus cog of group Protein_VAL_5'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_LYS_3 plus cog of group Protein_ALA_4 plus cog of group Protein_VAL_5' -g2 plane -group2 'plus cog of group Protein_ALA_4 plus cog of group Protein_VAL_5 plus cog of group Protein_ALA_6' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral004
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_ALA_4 plus cog of group
+    Protein_VAL_5 plus cog of group Protein_ALA_6'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_ALA_4 plus cog of group Protein_VAL_5 plus cog of group Protein_ALA_6' -g2 plane -group2 'plus cog of group Protein_VAL_5 plus cog of group Protein_ALA_6 plus cog of group Protein_VAL_7' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral005
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_VAL_5 plus cog of group
+    Protein_ALA_6 plus cog of group Protein_VAL_7'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_VAL_5 plus cog of group Protein_ALA_6 plus cog of group Protein_VAL_7' -g2 plane -group2 'plus cog of group Protein_ALA_6 plus cog of group Protein_VAL_7 plus cog of group Protein_LEU_8' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral006
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_ALA_6 plus cog of group
+    Protein_VAL_7 plus cog of group Protein_LEU_8'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_ALA_6 plus cog of group Protein_VAL_7 plus cog of group Protein_LEU_8' -g2 plane -group2 'plus cog of group Protein_VAL_7 plus cog of group Protein_LEU_8 plus cog of group Protein_LYS_9' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral007
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_VAL_7 plus cog of group
+    Protein_LEU_8 plus cog of group Protein_LYS_9'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_VAL_7 plus cog of group Protein_LEU_8 plus cog of group Protein_LYS_9' -g2 plane -group2 'plus cog of group Protein_LEU_8 plus cog of group Protein_LYS_9 plus cog of group Protein_GLY_10' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral008
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_LEU_8 plus cog of group
+    Protein_LYS_9 plus cog of group Protein_GLY_10'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_LEU_8 plus cog of group Protein_LYS_9 plus cog of group Protein_GLY_10' -g2 plane -group2 'plus cog of group Protein_LYS_9 plus cog of group Protein_GLY_10 plus cog of group Protein_ASP_11' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral009
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_LYS_9 plus cog of group
+    Protein_GLY_10 plus cog of group Protein_ASP_11'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_LYS_9 plus cog of group Protein_GLY_10 plus cog of group Protein_ASP_11' -g2 plane -group2 'plus cog of group Protein_GLY_10 plus cog of group Protein_ASP_11 plus cog of group Protein_GLY_12' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral010
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_GLY_10 plus cog of group
+    Protein_ASP_11 plus cog of group Protein_GLY_12'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_GLY_10 plus cog of group Protein_ASP_11 plus cog of group Protein_GLY_12' -g2 plane -group2 'plus cog of group Protein_ASP_11 plus cog of group Protein_GLY_12 plus cog of group Protein_PRO_13' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral011
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_ASP_11 plus cog of group
+    Protein_GLY_12 plus cog of group Protein_PRO_13'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_ASP_11 plus cog of group Protein_GLY_12 plus cog of group Protein_PRO_13' -g2 plane -group2 'plus cog of group Protein_GLY_12 plus cog of group Protein_PRO_13 plus cog of group Protein_VAL_14' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral012
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_GLY_12 plus cog of group
+    Protein_PRO_13 plus cog of group Protein_VAL_14'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_GLY_12 plus cog of group Protein_PRO_13 plus cog of group Protein_VAL_14' -g2 plane -group2 'plus cog of group Protein_PRO_13 plus cog of group Protein_VAL_14 plus cog of group Protein_GLN_15' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral013
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_PRO_13 plus cog of group
+    Protein_VAL_14 plus cog of group Protein_GLN_15'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_PRO_13 plus cog of group Protein_VAL_14 plus cog of group Protein_GLN_15' -g2 plane -group2 'plus cog of group Protein_VAL_14 plus cog of group Protein_GLN_15 plus cog of group Protein_GLY_16' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral014
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_VAL_14 plus cog of group
+    Protein_GLN_15 plus cog of group Protein_GLY_16'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_VAL_14 plus cog of group Protein_GLN_15 plus cog of group Protein_GLY_16' -g2 plane -group2 'plus cog of group Protein_GLN_15 plus cog of group Protein_GLY_16 plus cog of group Protein_ILE_17' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral015
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_GLN_15 plus cog of group
+    Protein_GLY_16 plus cog of group Protein_ILE_17'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_GLN_15 plus cog of group Protein_GLY_16 plus cog of group Protein_ILE_17' -g2 plane -group2 'plus cog of group Protein_GLY_16 plus cog of group Protein_ILE_17 plus cog of group Protein_ILE_18' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral016
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_GLY_16 plus cog of group
+    Protein_ILE_17 plus cog of group Protein_ILE_18'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_GLY_16 plus cog of group Protein_ILE_17 plus cog of group Protein_ILE_18' -g2 plane -group2 'plus cog of group Protein_ILE_17 plus cog of group Protein_ILE_18 plus cog of group Protein_ASN_19' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral017
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_ILE_17 plus cog of group
+    Protein_ILE_18 plus cog of group Protein_ASN_19'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_ILE_17 plus cog of group Protein_ILE_18 plus cog of group Protein_ASN_19' -g2 plane -group2 'plus cog of group Protein_ILE_18 plus cog of group Protein_ASN_19 plus cog of group Protein_PHE_20' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral018
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_ILE_18 plus cog of group
+    Protein_ASN_19 plus cog of group Protein_PHE_20'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_ILE_18 plus cog of group Protein_ASN_19 plus cog of group Protein_PHE_20' -g2 plane -group2 'plus cog of group Protein_ASN_19 plus cog of group Protein_PHE_20 plus cog of group Protein_GLU_21' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral019
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_ASN_19 plus cog of group
+    Protein_PHE_20 plus cog of group Protein_GLU_21'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_ASN_19 plus cog of group Protein_PHE_20 plus cog of group Protein_GLU_21' -g2 plane -group2 'plus cog of group Protein_PHE_20 plus cog of group Protein_GLU_21 plus cog of group Protein_GLN_22' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral020
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_PHE_20 plus cog of group
+    Protein_GLU_21 plus cog of group Protein_GLN_22'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_PHE_20 plus cog of group Protein_GLU_21 plus cog of group Protein_GLN_22' -g2 plane -group2 'plus cog of group Protein_GLU_21 plus cog of group Protein_GLN_22 plus cog of group Protein_LYS_23' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral021
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_GLU_21 plus cog of group
+    Protein_GLN_22 plus cog of group Protein_LYS_23'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_GLU_21 plus cog of group Protein_GLN_22 plus cog of group Protein_LYS_23' -g2 plane -group2 'plus cog of group Protein_GLN_22 plus cog of group Protein_LYS_23 plus cog of group Protein_GLU_24' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral022
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_GLN_22 plus cog of group
+    Protein_LYS_23 plus cog of group Protein_GLU_24'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_GLN_22 plus cog of group Protein_LYS_23 plus cog of group Protein_GLU_24' -g2 plane -group2 'plus cog of group Protein_LYS_23 plus cog of group Protein_GLU_24 plus cog of group Protein_SER_25' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral023
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_LYS_23 plus cog of group
+    Protein_GLU_24 plus cog of group Protein_SER_25'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_LYS_23 plus cog of group Protein_GLU_24 plus cog of group Protein_SER_25' -g2 plane -group2 'plus cog of group Protein_GLU_24 plus cog of group Protein_SER_25 plus cog of group Protein_ASN_26' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral024
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_GLU_24 plus cog of group
+    Protein_SER_25 plus cog of group Protein_ASN_26'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_GLU_24 plus cog of group Protein_SER_25 plus cog of group Protein_ASN_26' -g2 plane -group2 'plus cog of group Protein_SER_25 plus cog of group Protein_ASN_26 plus cog of group Protein_GLY_27' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral025
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_SER_25 plus cog of group
+    Protein_ASN_26 plus cog of group Protein_GLY_27'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_SER_25 plus cog of group Protein_ASN_26 plus cog of group Protein_GLY_27' -g2 plane -group2 'plus cog of group Protein_ASN_26 plus cog of group Protein_GLY_27 plus cog of group Protein_PRO_28' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral026
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_ASN_26 plus cog of group
+    Protein_GLY_27 plus cog of group Protein_PRO_28'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_ASN_26 plus cog of group Protein_GLY_27 plus cog of group Protein_PRO_28' -g2 plane -group2 'plus cog of group Protein_GLY_27 plus cog of group Protein_PRO_28 plus cog of group Protein_VAL_29' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral027
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_GLY_27 plus cog of group
+    Protein_PRO_28 plus cog of group Protein_VAL_29'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_GLY_27 plus cog of group Protein_PRO_28 plus cog of group Protein_VAL_29' -g2 plane -group2 'plus cog of group Protein_PRO_28 plus cog of group Protein_VAL_29 plus cog of group Protein_LYS_30' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral028
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_PRO_28 plus cog of group
+    Protein_VAL_29 plus cog of group Protein_LYS_30'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_PRO_28 plus cog of group Protein_VAL_29 plus cog of group Protein_LYS_30' -g2 plane -group2 'plus cog of group Protein_VAL_29 plus cog of group Protein_LYS_30 plus cog of group Protein_VAL_31' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral029
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_VAL_29 plus cog of group
+    Protein_LYS_30 plus cog of group Protein_VAL_31'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_VAL_29 plus cog of group Protein_LYS_30 plus cog of group Protein_VAL_31' -g2 plane -group2 'plus cog of group Protein_LYS_30 plus cog of group Protein_VAL_31 plus cog of group Protein_TRP_32' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral030
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_LYS_30 plus cog of group
+    Protein_VAL_31 plus cog of group Protein_TRP_32'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_LYS_30 plus cog of group Protein_VAL_31 plus cog of group Protein_TRP_32' -g2 plane -group2 'plus cog of group Protein_VAL_31 plus cog of group Protein_TRP_32 plus cog of group Protein_GLY_33' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral031
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_VAL_31 plus cog of group
+    Protein_TRP_32 plus cog of group Protein_GLY_33'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_VAL_31 plus cog of group Protein_TRP_32 plus cog of group Protein_GLY_33' -g2 plane -group2 'plus cog of group Protein_TRP_32 plus cog of group Protein_GLY_33 plus cog of group Protein_SER_34' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral032
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_TRP_32 plus cog of group
+    Protein_GLY_33 plus cog of group Protein_SER_34'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_TRP_32 plus cog of group Protein_GLY_33 plus cog of group Protein_SER_34' -g2 plane -group2 'plus cog of group Protein_GLY_33 plus cog of group Protein_SER_34 plus cog of group Protein_ILE_35' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral033
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_GLY_33 plus cog of group
+    Protein_SER_34 plus cog of group Protein_ILE_35'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_GLY_33 plus cog of group Protein_SER_34 plus cog of group Protein_ILE_35' -g2 plane -group2 'plus cog of group Protein_SER_34 plus cog of group Protein_ILE_35 plus cog of group Protein_LYS_36' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral034
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_SER_34 plus cog of group
+    Protein_ILE_35 plus cog of group Protein_LYS_36'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_SER_34 plus cog of group Protein_ILE_35 plus cog of group Protein_LYS_36' -g2 plane -group2 'plus cog of group Protein_ILE_35 plus cog of group Protein_LYS_36 plus cog of group Protein_GLY_37' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral035
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_ILE_35 plus cog of group
+    Protein_LYS_36 plus cog of group Protein_GLY_37'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_ILE_35 plus cog of group Protein_LYS_36 plus cog of group Protein_GLY_37' -g2 plane -group2 'plus cog of group Protein_LYS_36 plus cog of group Protein_GLY_37 plus cog of group Protein_LEU_38' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral036
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_LYS_36 plus cog of group
+    Protein_GLY_37 plus cog of group Protein_LEU_38'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_LYS_36 plus cog of group Protein_GLY_37 plus cog of group Protein_LEU_38' -g2 plane -group2 'plus cog of group Protein_GLY_37 plus cog of group Protein_LEU_38 plus cog of group Protein_THR_39' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral037
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_GLY_37 plus cog of group
+    Protein_LEU_38 plus cog of group Protein_THR_39'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_GLY_37 plus cog of group Protein_LEU_38 plus cog of group Protein_THR_39' -g2 plane -group2 'plus cog of group Protein_LEU_38 plus cog of group Protein_THR_39 plus cog of group Protein_GLU_40' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral038
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_LEU_38 plus cog of group
+    Protein_THR_39 plus cog of group Protein_GLU_40'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_LEU_38 plus cog of group Protein_THR_39 plus cog of group Protein_GLU_40' -g2 plane -group2 'plus cog of group Protein_THR_39 plus cog of group Protein_GLU_40 plus cog of group Protein_GLY_41' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral039
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_THR_39 plus cog of group
+    Protein_GLU_40 plus cog of group Protein_GLY_41'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_THR_39 plus cog of group Protein_GLU_40 plus cog of group Protein_GLY_41' -g2 plane -group2 'plus cog of group Protein_GLU_40 plus cog of group Protein_GLY_41 plus cog of group Protein_LEU_42' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral040
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_GLU_40 plus cog of group
+    Protein_GLY_41 plus cog of group Protein_LEU_42'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_GLU_40 plus cog of group Protein_GLY_41 plus cog of group Protein_LEU_42' -g2 plane -group2 'plus cog of group Protein_GLY_41 plus cog of group Protein_LEU_42 plus cog of group Protein_HIS_43' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral041
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_GLY_41 plus cog of group
+    Protein_LEU_42 plus cog of group Protein_HIS_43'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_GLY_41 plus cog of group Protein_LEU_42 plus cog of group Protein_HIS_43' -g2 plane -group2 'plus cog of group Protein_LEU_42 plus cog of group Protein_HIS_43 plus cog of group Protein_GLY_44' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral042
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_LEU_42 plus cog of group
+    Protein_HIS_43 plus cog of group Protein_GLY_44'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_LEU_42 plus cog of group Protein_HIS_43 plus cog of group Protein_GLY_44' -g2 plane -group2 'plus cog of group Protein_HIS_43 plus cog of group Protein_GLY_44 plus cog of group Protein_PHE_45' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral043
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_HIS_43 plus cog of group
+    Protein_GLY_44 plus cog of group Protein_PHE_45'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_HIS_43 plus cog of group Protein_GLY_44 plus cog of group Protein_PHE_45' -g2 plane -group2 'plus cog of group Protein_GLY_44 plus cog of group Protein_PHE_45 plus cog of group Protein_HIS_46' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral044
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_GLY_44 plus cog of group
+    Protein_PHE_45 plus cog of group Protein_HIS_46'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_GLY_44 plus cog of group Protein_PHE_45 plus cog of group Protein_HIS_46' -g2 plane -group2 'plus cog of group Protein_PHE_45 plus cog of group Protein_HIS_46 plus cog of group Protein_VAL_47' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral045
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_PHE_45 plus cog of group
+    Protein_HIS_46 plus cog of group Protein_VAL_47'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_PHE_45 plus cog of group Protein_HIS_46 plus cog of group Protein_VAL_47' -g2 plane -group2 'plus cog of group Protein_HIS_46 plus cog of group Protein_VAL_47 plus cog of group Protein_HIS_48' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral046
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_HIS_46 plus cog of group
+    Protein_VAL_47 plus cog of group Protein_HIS_48'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_HIS_46 plus cog of group Protein_VAL_47 plus cog of group Protein_HIS_48' -g2 plane -group2 'plus cog of group Protein_VAL_47 plus cog of group Protein_HIS_48 plus cog of group Protein_GLU_49' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral047
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_VAL_47 plus cog of group
+    Protein_HIS_48 plus cog of group Protein_GLU_49'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_VAL_47 plus cog of group Protein_HIS_48 plus cog of group Protein_GLU_49' -g2 plane -group2 'plus cog of group Protein_HIS_48 plus cog of group Protein_GLU_49 plus cog of group Protein_GLU_50' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral048
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_HIS_48 plus cog of group
+    Protein_GLU_49 plus cog of group Protein_GLU_50'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_HIS_48 plus cog of group Protein_GLU_49 plus cog of group Protein_GLU_50' -g2 plane -group2 'plus cog of group Protein_GLU_49 plus cog of group Protein_GLU_50 plus cog of group Protein_GLU_51' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral049
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_GLU_49 plus cog of group
+    Protein_GLU_50 plus cog of group Protein_GLU_51'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_GLU_49 plus cog of group Protein_GLU_50 plus cog of group Protein_GLU_51' -g2 plane -group2 'plus cog of group Protein_GLU_50 plus cog of group Protein_GLU_51 plus cog of group Protein_ASP_52' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral050
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_GLU_50 plus cog of group
+    Protein_GLU_51 plus cog of group Protein_ASP_52'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_GLU_50 plus cog of group Protein_GLU_51 plus cog of group Protein_ASP_52' -g2 plane -group2 'plus cog of group Protein_GLU_51 plus cog of group Protein_ASP_52 plus cog of group Protein_ASN_53' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral051
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_GLU_51 plus cog of group
+    Protein_ASP_52 plus cog of group Protein_ASN_53'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_GLU_51 plus cog of group Protein_ASP_52 plus cog of group Protein_ASN_53' -g2 plane -group2 'plus cog of group Protein_ASP_52 plus cog of group Protein_ASN_53 plus cog of group Protein_THR_54' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral052
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_ASP_52 plus cog of group
+    Protein_ASN_53 plus cog of group Protein_THR_54'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_ASP_52 plus cog of group Protein_ASN_53 plus cog of group Protein_THR_54' -g2 plane -group2 'plus cog of group Protein_ASN_53 plus cog of group Protein_THR_54 plus cog of group Protein_ALA_55' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral053
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_ASN_53 plus cog of group
+    Protein_THR_54 plus cog of group Protein_ALA_55'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_ASN_53 plus cog of group Protein_THR_54 plus cog of group Protein_ALA_55' -g2 plane -group2 'plus cog of group Protein_THR_54 plus cog of group Protein_ALA_55 plus cog of group Protein_GLY_56' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral054
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_THR_54 plus cog of group
+    Protein_ALA_55 plus cog of group Protein_GLY_56'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_THR_54 plus cog of group Protein_ALA_55 plus cog of group Protein_GLY_56' -g2 plane -group2 'plus cog of group Protein_ALA_55 plus cog of group Protein_GLY_56 plus cog of group Protein_CYS_57' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral055
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_ALA_55 plus cog of group
+    Protein_GLY_56 plus cog of group Protein_CYS_57'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_ALA_55 plus cog of group Protein_GLY_56 plus cog of group Protein_CYS_57' -g2 plane -group2 'plus cog of group Protein_GLY_56 plus cog of group Protein_CYS_57 plus cog of group Protein_THR_58' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral056
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_GLY_56 plus cog of group
+    Protein_CYS_57 plus cog of group Protein_THR_58'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_GLY_56 plus cog of group Protein_CYS_57 plus cog of group Protein_THR_58' -g2 plane -group2 'plus cog of group Protein_CYS_57 plus cog of group Protein_THR_58 plus cog of group Protein_SER_59' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral057
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_CYS_57 plus cog of group
+    Protein_THR_58 plus cog of group Protein_SER_59'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_CYS_57 plus cog of group Protein_THR_58 plus cog of group Protein_SER_59' -g2 plane -group2 'plus cog of group Protein_THR_58 plus cog of group Protein_SER_59 plus cog of group Protein_ALA_60' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral058
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_THR_58 plus cog of group
+    Protein_SER_59 plus cog of group Protein_ALA_60'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_THR_58 plus cog of group Protein_SER_59 plus cog of group Protein_ALA_60' -g2 plane -group2 'plus cog of group Protein_SER_59 plus cog of group Protein_ALA_60 plus cog of group Protein_GLY_61' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral059
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_SER_59 plus cog of group
+    Protein_ALA_60 plus cog of group Protein_GLY_61'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_SER_59 plus cog of group Protein_ALA_60 plus cog of group Protein_GLY_61' -g2 plane -group2 'plus cog of group Protein_ALA_60 plus cog of group Protein_GLY_61 plus cog of group Protein_PRO_62' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral060
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_ALA_60 plus cog of group
+    Protein_GLY_61 plus cog of group Protein_PRO_62'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_ALA_60 plus cog of group Protein_GLY_61 plus cog of group Protein_PRO_62' -g2 plane -group2 'plus cog of group Protein_GLY_61 plus cog of group Protein_PRO_62 plus cog of group Protein_HIS_63' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral061
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_GLY_61 plus cog of group
+    Protein_PRO_62 plus cog of group Protein_HIS_63'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_GLY_61 plus cog of group Protein_PRO_62 plus cog of group Protein_HIS_63' -g2 plane -group2 'plus cog of group Protein_PRO_62 plus cog of group Protein_HIS_63 plus cog of group Protein_PHE_64' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral062
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_PRO_62 plus cog of group
+    Protein_HIS_63 plus cog of group Protein_PHE_64'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_PRO_62 plus cog of group Protein_HIS_63 plus cog of group Protein_PHE_64' -g2 plane -group2 'plus cog of group Protein_HIS_63 plus cog of group Protein_PHE_64 plus cog of group Protein_ASN_65' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral063
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_HIS_63 plus cog of group
+    Protein_PHE_64 plus cog of group Protein_ASN_65'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_HIS_63 plus cog of group Protein_PHE_64 plus cog of group Protein_ASN_65' -g2 plane -group2 'plus cog of group Protein_PHE_64 plus cog of group Protein_ASN_65 plus cog of group Protein_PRO_66' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral064
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_PHE_64 plus cog of group
+    Protein_ASN_65 plus cog of group Protein_PRO_66'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_PHE_64 plus cog of group Protein_ASN_65 plus cog of group Protein_PRO_66' -g2 plane -group2 'plus cog of group Protein_ASN_65 plus cog of group Protein_PRO_66 plus cog of group Protein_LEU_67' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral065
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_ASN_65 plus cog of group
+    Protein_PRO_66 plus cog of group Protein_LEU_67'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_ASN_65 plus cog of group Protein_PRO_66 plus cog of group Protein_LEU_67' -g2 plane -group2 'plus cog of group Protein_PRO_66 plus cog of group Protein_LEU_67 plus cog of group Protein_SER_68' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral066
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_PRO_66 plus cog of group
+    Protein_LEU_67 plus cog of group Protein_SER_68'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_PRO_66 plus cog of group Protein_LEU_67 plus cog of group Protein_SER_68' -g2 plane -group2 'plus cog of group Protein_LEU_67 plus cog of group Protein_SER_68 plus cog of group Protein_ARG_69' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral067
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_LEU_67 plus cog of group
+    Protein_SER_68 plus cog of group Protein_ARG_69'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_LEU_67 plus cog of group Protein_SER_68 plus cog of group Protein_ARG_69' -g2 plane -group2 'plus cog of group Protein_SER_68 plus cog of group Protein_ARG_69 plus cog of group Protein_LYS_70' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral068
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_SER_68 plus cog of group
+    Protein_ARG_69 plus cog of group Protein_LYS_70'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_SER_68 plus cog of group Protein_ARG_69 plus cog of group Protein_LYS_70' -g2 plane -group2 'plus cog of group Protein_ARG_69 plus cog of group Protein_LYS_70 plus cog of group Protein_HIS_71' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral069
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_ARG_69 plus cog of group
+    Protein_LYS_70 plus cog of group Protein_HIS_71'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_ARG_69 plus cog of group Protein_LYS_70 plus cog of group Protein_HIS_71' -g2 plane -group2 'plus cog of group Protein_LYS_70 plus cog of group Protein_HIS_71 plus cog of group Protein_GLY_72' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral070
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_LYS_70 plus cog of group
+    Protein_HIS_71 plus cog of group Protein_GLY_72'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_LYS_70 plus cog of group Protein_HIS_71 plus cog of group Protein_GLY_72' -g2 plane -group2 'plus cog of group Protein_HIS_71 plus cog of group Protein_GLY_72 plus cog of group Protein_GLY_73' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral071
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_HIS_71 plus cog of group
+    Protein_GLY_72 plus cog of group Protein_GLY_73'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_HIS_71 plus cog of group Protein_GLY_72 plus cog of group Protein_GLY_73' -g2 plane -group2 'plus cog of group Protein_GLY_72 plus cog of group Protein_GLY_73 plus cog of group Protein_PRO_74' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral072
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_GLY_72 plus cog of group
+    Protein_GLY_73 plus cog of group Protein_PRO_74'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_GLY_72 plus cog of group Protein_GLY_73 plus cog of group Protein_PRO_74' -g2 plane -group2 'plus cog of group Protein_GLY_73 plus cog of group Protein_PRO_74 plus cog of group Protein_LYS_75' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral073
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_GLY_73 plus cog of group
+    Protein_PRO_74 plus cog of group Protein_LYS_75'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_GLY_73 plus cog of group Protein_PRO_74 plus cog of group Protein_LYS_75' -g2 plane -group2 'plus cog of group Protein_PRO_74 plus cog of group Protein_LYS_75 plus cog of group Protein_ASP_76' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral074
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_PRO_74 plus cog of group
+    Protein_LYS_75 plus cog of group Protein_ASP_76'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_PRO_74 plus cog of group Protein_LYS_75 plus cog of group Protein_ASP_76' -g2 plane -group2 'plus cog of group Protein_LYS_75 plus cog of group Protein_ASP_76 plus cog of group Protein_GLU_77' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral075
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_LYS_75 plus cog of group
+    Protein_ASP_76 plus cog of group Protein_GLU_77'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_LYS_75 plus cog of group Protein_ASP_76 plus cog of group Protein_GLU_77' -g2 plane -group2 'plus cog of group Protein_ASP_76 plus cog of group Protein_GLU_77 plus cog of group Protein_GLU_78' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral076
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_ASP_76 plus cog of group
+    Protein_GLU_77 plus cog of group Protein_GLU_78'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_ASP_76 plus cog of group Protein_GLU_77 plus cog of group Protein_GLU_78' -g2 plane -group2 'plus cog of group Protein_GLU_77 plus cog of group Protein_GLU_78 plus cog of group Protein_ARG_79' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral077
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_GLU_77 plus cog of group
+    Protein_GLU_78 plus cog of group Protein_ARG_79'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_GLU_77 plus cog of group Protein_GLU_78 plus cog of group Protein_ARG_79' -g2 plane -group2 'plus cog of group Protein_GLU_78 plus cog of group Protein_ARG_79 plus cog of group Protein_HIS_80' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral078
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_GLU_78 plus cog of group
+    Protein_ARG_79 plus cog of group Protein_HIS_80'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_GLU_78 plus cog of group Protein_ARG_79 plus cog of group Protein_HIS_80' -g2 plane -group2 'plus cog of group Protein_ARG_79 plus cog of group Protein_HIS_80 plus cog of group Protein_VAL_81' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral079
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_ARG_79 plus cog of group
+    Protein_HIS_80 plus cog of group Protein_VAL_81'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_ARG_79 plus cog of group Protein_HIS_80 plus cog of group Protein_VAL_81' -g2 plane -group2 'plus cog of group Protein_HIS_80 plus cog of group Protein_VAL_81 plus cog of group Protein_GLY_82' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral080
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_HIS_80 plus cog of group
+    Protein_VAL_81 plus cog of group Protein_GLY_82'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_HIS_80 plus cog of group Protein_VAL_81 plus cog of group Protein_GLY_82' -g2 plane -group2 'plus cog of group Protein_VAL_81 plus cog of group Protein_GLY_82 plus cog of group Protein_ASP_83' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral081
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_VAL_81 plus cog of group
+    Protein_GLY_82 plus cog of group Protein_ASP_83'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_VAL_81 plus cog of group Protein_GLY_82 plus cog of group Protein_ASP_83' -g2 plane -group2 'plus cog of group Protein_GLY_82 plus cog of group Protein_ASP_83 plus cog of group Protein_LEU_84' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral082
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_GLY_82 plus cog of group
+    Protein_ASP_83 plus cog of group Protein_LEU_84'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_GLY_82 plus cog of group Protein_ASP_83 plus cog of group Protein_LEU_84' -g2 plane -group2 'plus cog of group Protein_ASP_83 plus cog of group Protein_LEU_84 plus cog of group Protein_GLY_85' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral083
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_ASP_83 plus cog of group
+    Protein_LEU_84 plus cog of group Protein_GLY_85'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_ASP_83 plus cog of group Protein_LEU_84 plus cog of group Protein_GLY_85' -g2 plane -group2 'plus cog of group Protein_LEU_84 plus cog of group Protein_GLY_85 plus cog of group Protein_ASN_86' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral084
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_LEU_84 plus cog of group
+    Protein_GLY_85 plus cog of group Protein_ASN_86'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_LEU_84 plus cog of group Protein_GLY_85 plus cog of group Protein_ASN_86' -g2 plane -group2 'plus cog of group Protein_GLY_85 plus cog of group Protein_ASN_86 plus cog of group Protein_VAL_87' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral085
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_GLY_85 plus cog of group
+    Protein_ASN_86 plus cog of group Protein_VAL_87'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_GLY_85 plus cog of group Protein_ASN_86 plus cog of group Protein_VAL_87' -g2 plane -group2 'plus cog of group Protein_ASN_86 plus cog of group Protein_VAL_87 plus cog of group Protein_THR_88' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral086
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_ASN_86 plus cog of group
+    Protein_VAL_87 plus cog of group Protein_THR_88'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_ASN_86 plus cog of group Protein_VAL_87 plus cog of group Protein_THR_88' -g2 plane -group2 'plus cog of group Protein_VAL_87 plus cog of group Protein_THR_88 plus cog of group Protein_ALA_89' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral087
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_VAL_87 plus cog of group
+    Protein_THR_88 plus cog of group Protein_ALA_89'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_VAL_87 plus cog of group Protein_THR_88 plus cog of group Protein_ALA_89' -g2 plane -group2 'plus cog of group Protein_THR_88 plus cog of group Protein_ALA_89 plus cog of group Protein_ASP_90' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral088
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_THR_88 plus cog of group
+    Protein_ALA_89 plus cog of group Protein_ASP_90'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_THR_88 plus cog of group Protein_ALA_89 plus cog of group Protein_ASP_90' -g2 plane -group2 'plus cog of group Protein_ALA_89 plus cog of group Protein_ASP_90 plus cog of group Protein_LYS_91' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral089
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_ALA_89 plus cog of group
+    Protein_ASP_90 plus cog of group Protein_LYS_91'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_ALA_89 plus cog of group Protein_ASP_90 plus cog of group Protein_LYS_91' -g2 plane -group2 'plus cog of group Protein_ASP_90 plus cog of group Protein_LYS_91 plus cog of group Protein_ASP_92' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral090
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_ASP_90 plus cog of group
+    Protein_LYS_91 plus cog of group Protein_ASP_92'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_ASP_90 plus cog of group Protein_LYS_91 plus cog of group Protein_ASP_92' -g2 plane -group2 'plus cog of group Protein_LYS_91 plus cog of group Protein_ASP_92 plus cog of group Protein_GLY_93' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral091
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_LYS_91 plus cog of group
+    Protein_ASP_92 plus cog of group Protein_GLY_93'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_LYS_91 plus cog of group Protein_ASP_92 plus cog of group Protein_GLY_93' -g2 plane -group2 'plus cog of group Protein_ASP_92 plus cog of group Protein_GLY_93 plus cog of group Protein_VAL_94' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral092
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_ASP_92 plus cog of group
+    Protein_GLY_93 plus cog of group Protein_VAL_94'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_ASP_92 plus cog of group Protein_GLY_93 plus cog of group Protein_VAL_94' -g2 plane -group2 'plus cog of group Protein_GLY_93 plus cog of group Protein_VAL_94 plus cog of group Protein_ALA_95' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral093
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_GLY_93 plus cog of group
+    Protein_VAL_94 plus cog of group Protein_ALA_95'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_GLY_93 plus cog of group Protein_VAL_94 plus cog of group Protein_ALA_95' -g2 plane -group2 'plus cog of group Protein_VAL_94 plus cog of group Protein_ALA_95 plus cog of group Protein_ASP_96' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral094
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_VAL_94 plus cog of group
+    Protein_ALA_95 plus cog of group Protein_ASP_96'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_VAL_94 plus cog of group Protein_ALA_95 plus cog of group Protein_ASP_96' -g2 plane -group2 'plus cog of group Protein_ALA_95 plus cog of group Protein_ASP_96 plus cog of group Protein_VAL_97' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral095
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_ALA_95 plus cog of group
+    Protein_ASP_96 plus cog of group Protein_VAL_97'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_ALA_95 plus cog of group Protein_ASP_96 plus cog of group Protein_VAL_97' -g2 plane -group2 'plus cog of group Protein_ASP_96 plus cog of group Protein_VAL_97 plus cog of group Protein_SER_98' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral096
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_ASP_96 plus cog of group
+    Protein_VAL_97 plus cog of group Protein_SER_98'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_ASP_96 plus cog of group Protein_VAL_97 plus cog of group Protein_SER_98' -g2 plane -group2 'plus cog of group Protein_VAL_97 plus cog of group Protein_SER_98 plus cog of group Protein_ILE_99' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral097
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_VAL_97 plus cog of group
+    Protein_SER_98 plus cog of group Protein_ILE_99'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_VAL_97 plus cog of group Protein_SER_98 plus cog of group Protein_ILE_99' -g2 plane -group2 'plus cog of group Protein_SER_98 plus cog of group Protein_ILE_99 plus cog of group Protein_GLU_100' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral098
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_SER_98 plus cog of group
+    Protein_ILE_99 plus cog of group Protein_GLU_100'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_SER_98 plus cog of group Protein_ILE_99 plus cog of group Protein_GLU_100' -g2 plane -group2 'plus cog of group Protein_ILE_99 plus cog of group Protein_GLU_100 plus cog of group Protein_ASP_101' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral099
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_ILE_99 plus cog of group
+    Protein_GLU_100 plus cog of group Protein_ASP_101'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_ILE_99 plus cog of group Protein_GLU_100 plus cog of group Protein_ASP_101' -g2 plane -group2 'plus cog of group Protein_GLU_100 plus cog of group Protein_ASP_101 plus cog of group Protein_SER_102' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral100
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_GLU_100 plus cog of group
+    Protein_ASP_101 plus cog of group Protein_SER_102'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_GLU_100 plus cog of group Protein_ASP_101 plus cog of group Protein_SER_102' -g2 plane -group2 'plus cog of group Protein_ASP_101 plus cog of group Protein_SER_102 plus cog of group Protein_VAL_103' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral101
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_ASP_101 plus cog of group
+    Protein_SER_102 plus cog of group Protein_VAL_103'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_ASP_101 plus cog of group Protein_SER_102 plus cog of group Protein_VAL_103' -g2 plane -group2 'plus cog of group Protein_SER_102 plus cog of group Protein_VAL_103 plus cog of group Protein_ILE_104' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral102
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_SER_102 plus cog of group
+    Protein_VAL_103 plus cog of group Protein_ILE_104'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_SER_102 plus cog of group Protein_VAL_103 plus cog of group Protein_ILE_104' -g2 plane -group2 'plus cog of group Protein_VAL_103 plus cog of group Protein_ILE_104 plus cog of group Protein_SER_105' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral103
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_VAL_103 plus cog of group
+    Protein_ILE_104 plus cog of group Protein_SER_105'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_VAL_103 plus cog of group Protein_ILE_104 plus cog of group Protein_SER_105' -g2 plane -group2 'plus cog of group Protein_ILE_104 plus cog of group Protein_SER_105 plus cog of group Protein_LEU_106' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral104
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_ILE_104 plus cog of group
+    Protein_SER_105 plus cog of group Protein_LEU_106'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_ILE_104 plus cog of group Protein_SER_105 plus cog of group Protein_LEU_106' -g2 plane -group2 'plus cog of group Protein_SER_105 plus cog of group Protein_LEU_106 plus cog of group Protein_SER_107' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral105
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_SER_105 plus cog of group
+    Protein_LEU_106 plus cog of group Protein_SER_107'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_SER_105 plus cog of group Protein_LEU_106 plus cog of group Protein_SER_107' -g2 plane -group2 'plus cog of group Protein_LEU_106 plus cog of group Protein_SER_107 plus cog of group Protein_GLY_108' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral106
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_LEU_106 plus cog of group
+    Protein_SER_107 plus cog of group Protein_GLY_108'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_LEU_106 plus cog of group Protein_SER_107 plus cog of group Protein_GLY_108' -g2 plane -group2 'plus cog of group Protein_SER_107 plus cog of group Protein_GLY_108 plus cog of group Protein_ASP_109' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral107
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_SER_107 plus cog of group
+    Protein_GLY_108 plus cog of group Protein_ASP_109'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_SER_107 plus cog of group Protein_GLY_108 plus cog of group Protein_ASP_109' -g2 plane -group2 'plus cog of group Protein_GLY_108 plus cog of group Protein_ASP_109 plus cog of group Protein_HIS_110' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral108
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_GLY_108 plus cog of group
+    Protein_ASP_109 plus cog of group Protein_HIS_110'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_GLY_108 plus cog of group Protein_ASP_109 plus cog of group Protein_HIS_110' -g2 plane -group2 'plus cog of group Protein_ASP_109 plus cog of group Protein_HIS_110 plus cog of group Protein_SER_111' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral109
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_ASP_109 plus cog of group
+    Protein_HIS_110 plus cog of group Protein_SER_111'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_ASP_109 plus cog of group Protein_HIS_110 plus cog of group Protein_SER_111' -g2 plane -group2 'plus cog of group Protein_HIS_110 plus cog of group Protein_SER_111 plus cog of group Protein_ILE_112' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral110
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_HIS_110 plus cog of group
+    Protein_SER_111 plus cog of group Protein_ILE_112'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_HIS_110 plus cog of group Protein_SER_111 plus cog of group Protein_ILE_112' -g2 plane -group2 'plus cog of group Protein_SER_111 plus cog of group Protein_ILE_112 plus cog of group Protein_ILE_113' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral111
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_SER_111 plus cog of group
+    Protein_ILE_112 plus cog of group Protein_ILE_113'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_SER_111 plus cog of group Protein_ILE_112 plus cog of group Protein_ILE_113' -g2 plane -group2 'plus cog of group Protein_ILE_112 plus cog of group Protein_ILE_113 plus cog of group Protein_GLY_114' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral112
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_ILE_112 plus cog of group
+    Protein_ILE_113 plus cog of group Protein_GLY_114'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_ILE_112 plus cog of group Protein_ILE_113 plus cog of group Protein_GLY_114' -g2 plane -group2 'plus cog of group Protein_ILE_113 plus cog of group Protein_GLY_114 plus cog of group Protein_ARG_115' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral113
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_ILE_113 plus cog of group
+    Protein_GLY_114 plus cog of group Protein_ARG_115'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_ILE_113 plus cog of group Protein_GLY_114 plus cog of group Protein_ARG_115' -g2 plane -group2 'plus cog of group Protein_GLY_114 plus cog of group Protein_ARG_115 plus cog of group Protein_THR_116' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral114
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_GLY_114 plus cog of group
+    Protein_ARG_115 plus cog of group Protein_THR_116'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_GLY_114 plus cog of group Protein_ARG_115 plus cog of group Protein_THR_116' -g2 plane -group2 'plus cog of group Protein_ARG_115 plus cog of group Protein_THR_116 plus cog of group Protein_LEU_117' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral115
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_ARG_115 plus cog of group
+    Protein_THR_116 plus cog of group Protein_LEU_117'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_ARG_115 plus cog of group Protein_THR_116 plus cog of group Protein_LEU_117' -g2 plane -group2 'plus cog of group Protein_THR_116 plus cog of group Protein_LEU_117 plus cog of group Protein_VAL_118' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral116
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_THR_116 plus cog of group
+    Protein_LEU_117 plus cog of group Protein_VAL_118'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_THR_116 plus cog of group Protein_LEU_117 plus cog of group Protein_VAL_118' -g2 plane -group2 'plus cog of group Protein_LEU_117 plus cog of group Protein_VAL_118 plus cog of group Protein_VAL_119' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral117
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_LEU_117 plus cog of group
+    Protein_VAL_118 plus cog of group Protein_VAL_119'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_LEU_117 plus cog of group Protein_VAL_118 plus cog of group Protein_VAL_119' -g2 plane -group2 'plus cog of group Protein_VAL_118 plus cog of group Protein_VAL_119 plus cog of group Protein_HIS_120' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral118
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_VAL_118 plus cog of group
+    Protein_VAL_119 plus cog of group Protein_HIS_120'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_VAL_118 plus cog of group Protein_VAL_119 plus cog of group Protein_HIS_120' -g2 plane -group2 'plus cog of group Protein_VAL_119 plus cog of group Protein_HIS_120 plus cog of group Protein_GLU_121' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral119
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_VAL_119 plus cog of group
+    Protein_HIS_120 plus cog of group Protein_GLU_121'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_VAL_119 plus cog of group Protein_HIS_120 plus cog of group Protein_GLU_121' -g2 plane -group2 'plus cog of group Protein_HIS_120 plus cog of group Protein_GLU_121 plus cog of group Protein_LYS_122' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral120
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_HIS_120 plus cog of group
+    Protein_GLU_121 plus cog of group Protein_LYS_122'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_HIS_120 plus cog of group Protein_GLU_121 plus cog of group Protein_LYS_122' -g2 plane -group2 'plus cog of group Protein_GLU_121 plus cog of group Protein_LYS_122 plus cog of group Protein_ALA_123' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral121
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_GLU_121 plus cog of group
+    Protein_LYS_122 plus cog of group Protein_ALA_123'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_GLU_121 plus cog of group Protein_LYS_122 plus cog of group Protein_ALA_123' -g2 plane -group2 'plus cog of group Protein_LYS_122 plus cog of group Protein_ALA_123 plus cog of group Protein_ASP_124' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral122
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_LYS_122 plus cog of group
+    Protein_ALA_123 plus cog of group Protein_ASP_124'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_LYS_122 plus cog of group Protein_ALA_123 plus cog of group Protein_ASP_124' -g2 plane -group2 'plus cog of group Protein_ALA_123 plus cog of group Protein_ASP_124 plus cog of group Protein_ASP_125' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral123
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_ALA_123 plus cog of group
+    Protein_ASP_124 plus cog of group Protein_ASP_125'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_ALA_123 plus cog of group Protein_ASP_124 plus cog of group Protein_ASP_125' -g2 plane -group2 'plus cog of group Protein_ASP_124 plus cog of group Protein_ASP_125 plus cog of group Protein_LEU_126' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral124
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_ASP_124 plus cog of group
+    Protein_ASP_125 plus cog of group Protein_LEU_126'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_ASP_124 plus cog of group Protein_ASP_125 plus cog of group Protein_LEU_126' -g2 plane -group2 'plus cog of group Protein_ASP_125 plus cog of group Protein_LEU_126 plus cog of group Protein_GLY_127' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral125
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_ASP_125 plus cog of group
+    Protein_LEU_126 plus cog of group Protein_GLY_127'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_ASP_125 plus cog of group Protein_LEU_126 plus cog of group Protein_GLY_127' -g2 plane -group2 'plus cog of group Protein_LEU_126 plus cog of group Protein_GLY_127 plus cog of group Protein_LYS_128' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral126
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_LEU_126 plus cog of group
+    Protein_GLY_127 plus cog of group Protein_LYS_128'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_LEU_126 plus cog of group Protein_GLY_127 plus cog of group Protein_LYS_128' -g2 plane -group2 'plus cog of group Protein_GLY_127 plus cog of group Protein_LYS_128 plus cog of group Protein_GLY_129' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral127
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_GLY_127 plus cog of group
+    Protein_LYS_128 plus cog of group Protein_GLY_129'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_GLY_127 plus cog of group Protein_LYS_128 plus cog of group Protein_GLY_129' -g2 plane -group2 'plus cog of group Protein_LYS_128 plus cog of group Protein_GLY_129 plus cog of group Protein_GLY_130' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral128
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_LYS_128 plus cog of group
+    Protein_GLY_129 plus cog of group Protein_GLY_130'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_LYS_128 plus cog of group Protein_GLY_129 plus cog of group Protein_GLY_130' -g2 plane -group2 'plus cog of group Protein_GLY_129 plus cog of group Protein_GLY_130 plus cog of group Protein_ASN_131' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral129
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_GLY_129 plus cog of group
+    Protein_GLY_130 plus cog of group Protein_ASN_131'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_GLY_129 plus cog of group Protein_GLY_130 plus cog of group Protein_ASN_131' -g2 plane -group2 'plus cog of group Protein_GLY_130 plus cog of group Protein_ASN_131 plus cog of group Protein_GLU_132' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral130
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_GLY_130 plus cog of group
+    Protein_ASN_131 plus cog of group Protein_GLU_132'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_GLY_130 plus cog of group Protein_ASN_131 plus cog of group Protein_GLU_132' -g2 plane -group2 'plus cog of group Protein_ASN_131 plus cog of group Protein_GLU_132 plus cog of group Protein_GLN_133' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral131
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_ASN_131 plus cog of group
+    Protein_GLU_132 plus cog of group Protein_GLN_133'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_ASN_131 plus cog of group Protein_GLU_132 plus cog of group Protein_GLN_133' -g2 plane -group2 'plus cog of group Protein_GLU_132 plus cog of group Protein_GLN_133 plus cog of group Protein_SER_134' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral132
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_GLU_132 plus cog of group
+    Protein_GLN_133 plus cog of group Protein_SER_134'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_GLU_132 plus cog of group Protein_GLN_133 plus cog of group Protein_SER_134' -g2 plane -group2 'plus cog of group Protein_GLN_133 plus cog of group Protein_SER_134 plus cog of group Protein_THR_135' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral133
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_GLN_133 plus cog of group
+    Protein_SER_134 plus cog of group Protein_THR_135'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_GLN_133 plus cog of group Protein_SER_134 plus cog of group Protein_THR_135' -g2 plane -group2 'plus cog of group Protein_SER_134 plus cog of group Protein_THR_135 plus cog of group Protein_LYS_136' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral134
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_SER_134 plus cog of group
+    Protein_THR_135 plus cog of group Protein_LYS_136'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_SER_134 plus cog of group Protein_THR_135 plus cog of group Protein_LYS_136' -g2 plane -group2 'plus cog of group Protein_THR_135 plus cog of group Protein_LYS_136 plus cog of group Protein_THR_137' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral135
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_THR_135 plus cog of group
+    Protein_LYS_136 plus cog of group Protein_THR_137'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_THR_135 plus cog of group Protein_LYS_136 plus cog of group Protein_THR_137' -g2 plane -group2 'plus cog of group Protein_LYS_136 plus cog of group Protein_THR_137 plus cog of group Protein_GLY_138' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral136
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_LYS_136 plus cog of group
+    Protein_THR_137 plus cog of group Protein_GLY_138'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_LYS_136 plus cog of group Protein_THR_137 plus cog of group Protein_GLY_138' -g2 plane -group2 'plus cog of group Protein_THR_137 plus cog of group Protein_GLY_138 plus cog of group Protein_ASN_139' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral137
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_THR_137 plus cog of group
+    Protein_GLY_138 plus cog of group Protein_ASN_139'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_THR_137 plus cog of group Protein_GLY_138 plus cog of group Protein_ASN_139' -g2 plane -group2 'plus cog of group Protein_GLY_138 plus cog of group Protein_ASN_139 plus cog of group Protein_ALA_140' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral138
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_GLY_138 plus cog of group
+    Protein_ASN_139 plus cog of group Protein_ALA_140'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_GLY_138 plus cog of group Protein_ASN_139 plus cog of group Protein_ALA_140' -g2 plane -group2 'plus cog of group Protein_ASN_139 plus cog of group Protein_ALA_140 plus cog of group Protein_GLY_141' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral139
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_ASN_139 plus cog of group
+    Protein_ALA_140 plus cog of group Protein_GLY_141'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_ASN_139 plus cog of group Protein_ALA_140 plus cog of group Protein_GLY_141' -g2 plane -group2 'plus cog of group Protein_ALA_140 plus cog of group Protein_GLY_141 plus cog of group Protein_SER_142' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral140
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_ALA_140 plus cog of group
+    Protein_GLY_141 plus cog of group Protein_SER_142'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_ALA_140 plus cog of group Protein_GLY_141 plus cog of group Protein_SER_142' -g2 plane -group2 'plus cog of group Protein_GLY_141 plus cog of group Protein_SER_142 plus cog of group Protein_ARG_143' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral141
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_GLY_141 plus cog of group
+    Protein_SER_142 plus cog of group Protein_ARG_143'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_GLY_141 plus cog of group Protein_SER_142 plus cog of group Protein_ARG_143' -g2 plane -group2 'plus cog of group Protein_SER_142 plus cog of group Protein_ARG_143 plus cog of group Protein_LEU_144' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral142
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_SER_142 plus cog of group
+    Protein_ARG_143 plus cog of group Protein_LEU_144'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_SER_142 plus cog of group Protein_ARG_143 plus cog of group Protein_LEU_144' -g2 plane -group2 'plus cog of group Protein_ARG_143 plus cog of group Protein_LEU_144 plus cog of group Protein_ALA_145' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral143
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_ARG_143 plus cog of group
+    Protein_LEU_144 plus cog of group Protein_ALA_145'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_ARG_143 plus cog of group Protein_LEU_144 plus cog of group Protein_ALA_145' -g2 plane -group2 'plus cog of group Protein_LEU_144 plus cog of group Protein_ALA_145 plus cog of group Protein_CYS_146' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral144
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_LEU_144 plus cog of group
+    Protein_ALA_145 plus cog of group Protein_CYS_146'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_LEU_144 plus cog of group Protein_ALA_145 plus cog of group Protein_CYS_146' -g2 plane -group2 'plus cog of group Protein_ALA_145 plus cog of group Protein_CYS_146 plus cog of group Protein_GLY_147' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral145
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_ALA_145 plus cog of group
+    Protein_CYS_146 plus cog of group Protein_GLY_147'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_ALA_145 plus cog of group Protein_CYS_146 plus cog of group Protein_GLY_147' -g2 plane -group2 'plus cog of group Protein_CYS_146 plus cog of group Protein_GLY_147 plus cog of group Protein_VAL_148' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral146
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_CYS_146 plus cog of group
+    Protein_GLY_147 plus cog of group Protein_VAL_148'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_CYS_146 plus cog of group Protein_GLY_147 plus cog of group Protein_VAL_148' -g2 plane -group2 'plus cog of group Protein_GLY_147 plus cog of group Protein_VAL_148 plus cog of group Protein_ILE_149' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral147
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_GLY_147 plus cog of group
+    Protein_VAL_148 plus cog of group Protein_ILE_149'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_GLY_147 plus cog of group Protein_VAL_148 plus cog of group Protein_ILE_149' -g2 plane -group2 'plus cog of group Protein_VAL_148 plus cog of group Protein_ILE_149 plus cog of group Protein_GLY_150' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral148
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_VAL_148 plus cog of group
+    Protein_ILE_149 plus cog of group Protein_GLY_150'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_VAL_148 plus cog of group Protein_ILE_149 plus cog of group Protein_GLY_150' -g2 plane -group2 'plus cog of group Protein_ILE_149 plus cog of group Protein_GLY_150 plus cog of group Protein_ILE_151' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral149
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_ILE_149 plus cog of group
+    Protein_GLY_150 plus cog of group Protein_ILE_151'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_ILE_149 plus cog of group Protein_GLY_150 plus cog of group Protein_ILE_151' -g2 plane -group2 'plus cog of group Protein_GLY_150 plus cog of group Protein_ILE_151 plus cog of group Protein_ALA_152' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral150
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_GLY_150 plus cog of group
+    Protein_ILE_151 plus cog of group Protein_ALA_152'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------
+                 :-) GROMACS - gmx gangle, 2022.3-Fedora38 (-:
+
+Executable:   /usr/bin/gmx
+Data prefix:  /usr
+Working dir:  /home/krir17/Krishna/Academics/Projects/PKM_dec2023/Atomistic
+Command line:
+  gmx gangle -g1 plane -group1 'cog of group Protein_GLY_150 plus cog of group Protein_ILE_151 plus cog of group Protein_ALA_152' -g2 plane -group2 'plus cog of group Protein_ILE_151 plus cog of group Protein_ALA_152 plus cog of group Protein_GLN_153' -n index.ndx -s md_0_1.tpr -f md_0_1_noPBC.xtc -oav dihedrals/dihedral151
+
+
+-------------------------------------------------------
+Program:     gmx gangle, version 2022.3-Fedora38
+Source file: src/gromacs/commandline/cmdlineparser.cpp (line 271)
+Function:    void gmx::CommandLineParser::parse(int*, char**)
+
+Error in user input:
+Invalid command-line options
+  In command-line option -group2
+    Invalid selection 'plus cog of group Protein_ILE_151 plus cog of group
+    Protein_ALA_152 plus cog of group Protein_GLN_153'
+      Near 'plus'
+        syntax error
+
+For more information and tips for troubleshooting, please check the GROMACS
+website at http://www.gromacs.org/Documentation/Errors
+-------------------------------------------------------

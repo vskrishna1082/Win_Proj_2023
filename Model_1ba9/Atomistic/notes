@@ -1,0 +1,61 @@
+- Atomistic Simulation using gromacs
+- 1BA9 pdbID
+- TIP3P water
+- AMBER99SB-ILDN ff
+- dodecahedral box
+- neutralize by replacing water with Na+Cl- ions
+- NaCl conc of 0.15M
+- Steepest Descent minimization
+
+
+
+
+
+
+
+
+
+
+##############################
+COMMANDS
+##############################
+
+# grep -e ^HETATM -e ^CONECT 1ba9.pdb -v > 1ba9_protein.pdb
+
+# gmx pdb2gmx -f 1ba9_protein.pdb -o 1ba9_processed.gro -water tip3p -ignh
+
+# gmx editconf -f 1ba9_processed.gro -o 1ba9_newbox.gro -c -d 1.0 -bt dodecahedron
+
+# gmx solvate -cp 1ba9_newbox.gro -cs spc216.gro -o 1ba9_solv.gro -p topol.top
+
+# touch ions.mdp
+
+# gmx grompp -f ions.mdp -c 1ba9_solv.gro -p topol.top -o ions.tpr
+
+# gmx genion -s ions.tpr -o 1ba9_solv_ions.gro -conc 0.15 -p topol.top -pname NA -nname CL -neutral 
+
+# # split protein into residues
+# gmx make_ndx -f 1ba9_solv_ions.gro -o index.ndx
+> splitres 1
+> q
+
+# # Energy Minimization
+# gmx grompp -f minim.mdp -c 1ba9_solv_ions.gro -p topol.top -o em.tpr
+# gmx mdrun -v -deffnm em
+
+# # NVT equilibriation
+# gmx grompp -f nvt.mdp -c em.gro -r em.gro -p topol.top -o nvt.tpr
+# gmx mdrun -deffnm nvt
+
+# # NPT equilibriation
+# gmx grompp -f npt.mdp -c nvt.gro -r nvt.gro -t nvt.cpt -p topol.top -o npt.tpr
+# gmx mdrun -deffrun npt
+
+# # MD Simulation
+# gmx grompp -f md.mdp -c npt.gro -t npt.cpt -p topol.top -o md_0_1.tpr
+# gmx mdrun -deffnm md_0_1
+
+# gmx trjconv -s md_0_1.tpr -f md_0_1.xtc -o md_0_1_noPBC.xtc -pbc mol -center
+
+# # gmx gyrate -s md_0_1.tpr -f md_0_1_noPBC.xtc -o gyrate_Protein_GLY_150.xvg -n index.ndx
+# # run the gyrate_generation_file
